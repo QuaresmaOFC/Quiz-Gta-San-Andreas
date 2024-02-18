@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: black;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#comeco {
+    text-align: center;
+    margin-top: 30%;
+}
+
+#comeco h1 {
+    font-size: 250%;
+}
+
+#btn-comecar {
+    text-align: center;
+    margin-top: 5%;
+}
+
+#btn-comecar a {
+    text-decoration: none;
+    color: white;
+    background-color: blue;
+    padding: 2%;
+    border-radius: 20px;
+}
